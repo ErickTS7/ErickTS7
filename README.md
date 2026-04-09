@@ -57,7 +57,7 @@ status:     > _ [ root@miku ~]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickTS7&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=39C5BB&text_color=a78bfa&border_color=39C5BB&border_radius=10&hide_border=false" />
+<img src="https://github-readme-stats-six-gamma-84.vercel.app/api/top-langs/?username=ErickTS7&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=39C5BB&text_color=a78bfa&border_color=39C5BB&border_radius=10&hide_border=false" />
 
 </div>
 
